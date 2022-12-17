@@ -1,0 +1,71 @@
+body {
+  margin: 0px;
+  background-color:  #F9F3E3;
+  font-family: Georgia, serif;
+}
+
+nav {
+  border-top: 8px solid black;
+  border-bottom: 1px solid black;
+  padding: 20px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 40px;
+  font-family: Georgia, serif;
+  color: black;
+}
+
+.sitemotto {
+  font-size: 20px;
+  color: black;
+  text-transform: uppercase;
+  font-family: Basier, sans-serif;
+  font-weight: bold;
+}
+
+.box { display:inline-block; }
+
+article {
+  margin-top: 5%;
+  width: 100%;
+}
+
+
+h1 {
+  font-size: 46px;
+}
+
+.caption {
+  font-size: 12px;
+  font-style: italic;
+  color: lightslategray;
+  text-align: center;
+}
+
+
+
+.story_image {
+  width: 80%;
+}
+
+
+.float-end {
+  width: 50%;
+  margin: 10px;
+}
+
+footer {
+  margin-top: 30px;
+  font-family: Basier, Arial, sans-serif;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: #717171;
+  text-decoration-color: #ffcb04;
+}
